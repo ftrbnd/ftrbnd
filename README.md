@@ -1,17 +1,17 @@
 <h1 align="center">Hello! ⌨️ I'm Giovanni</h1>
 <h3 align="center">A passionate developer from Los Angeles</h3>
 
-- 🔭 I’m currently working on [EDEN Heardle](https://github.com/ftrbnd/eden-heardle)
+- 🔭 I’m currently working on **[EDEN Heardle](https://github.com/ftrbnd/eden-heardle)**
 
-- 🌱 I’m currently learning **Full Stack Open**
+- 🌱 I’m currently learning **[Full Stack Open](https://fullstackopen.com/)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ftrbnd](https://github.com/ftrbnd)
+- 👨‍💻 All of my projects are available at **[https://github.com/ftrbnd](https://github.com/ftrbnd)**
 
-- 💬 Ask me about **The Odin Project!**
+- 💬 Ask me about **[The Odin Project!](https://www.theodinproject.com)**
 
-- 📫 How to reach me **giosalas25@gmail.com**
+- 📫 How to reach me: **giosalas25@gmail.com**
 
-- ⚡ Fun fact **too deep into custom keyboards**
+- ⚡ Fun fact: **too deep into custom keyboards**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

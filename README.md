@@ -1,11 +1,10 @@
 <h1 align="center">Hey! I'm Giovanni 🤠</h1>
 <h3 align="center">A developer from Los Angeles</h3>
 
-- 🔭 I’m currently working on **[EDEN Heardle](https://github.com/ftrbnd/eden-heardle)**
-- 🌱 I’m currently learning **[Full Stack Open](https://fullstackopen.com/)**
+- 🔭 I’m currently working on **[On Tour](https://github.com/ftrbnd/on-tour)**
+- 🌱 I’m currently learning **[React Native with Expo](https://expo.dev/)**
 - 👨‍💻 All of my projects are available at **[https://github.com/ftrbnd](https://github.com/ftrbnd)**
-- 💬 Ask me about **[The Odin Project!](https://www.theodinproject.com)**
-- 📫 How to reach me: **giosalas25@gmail.com**
+- 📫 Contact me: **giosalas25@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

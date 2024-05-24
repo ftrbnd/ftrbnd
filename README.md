@@ -1,7 +1,7 @@
 ## Hey there! <img src="https://i.imgur.com/U65WS35.gif" width="25"/>
 I'm **Giovanni**, a developer from Los Angeles, California.
 
-I’m currently working on **[On Tour](https://github.com/ftrbnd/on-tour)**, a React Native application that works with [Spotify](https://developer.spotify.com/documentation/web-api) and [setlist.fm](https://api.setlist.fm/docs/1.0/index.html).
+I’m currently working on **[On Tour](https://github.com/ftrbnd/on-tour)**, a React Native application that works with Spotify and setlist.fm.
 
 Check out [**EDEN Heardle**](https://eden-heardle.io), a custom version of Heardle created for [EDEN](https://open.spotify.com/artist/1t20wYnTiAT0Bs7H1hv9Wt) fans.
 

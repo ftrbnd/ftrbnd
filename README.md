@@ -5,7 +5,7 @@ I’m currently working on **[On Tour](https://github.com/ftrbnd/on-tour)**, a R
 
 Check out [**EDEN Heardle**](https://eden-heardle.io), a custom version of Heardle created for [EDEN](https://open.spotify.com/artist/1t20wYnTiAT0Bs7H1hv9Wt) fans.
 
-All of my projects can be found on **[my website](https://github.com/ftrbnd)**.
+All of my projects can be found on **[my website](https://giosalas.dev)**.
 
 ### Connect with me
 [<img alt="Email" src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=giosalas25@gmail.com)
